@@ -4,7 +4,7 @@
 The **Mobile Sales Dashboard** provides key insights into sales performance, transaction trends, and customer purchasing behavior. This interactive dashboard helps businesses track sales, analyze payment methods, and identify top-performing brands and models. By leveraging **Power BI**, the dashboard visualizes trends and patterns, enabling data-driven decision-making to boost revenue and improve sales strategies.  
 
 ## 📂 Dataset Used  
-- <a href="">Dataset</a> 
+- <a href="https://github.com/Shashank2650/PowerBi-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx">Dataset</a> 
 
 ## 📊 Key Performance Indicators (KPIs)  
 - 📌 **Total Sales**: Overall revenue generated from mobile sales.  
