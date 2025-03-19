@@ -20,9 +20,6 @@ The **Mobile Sales Dashboard** provides key insights into sales performance, tra
 - 📍 **Top Mobile Models**: Best-selling mobile models based on revenue.  
 - 📍 **Sales by Day of the Week**: Identifies peak shopping days.  
 
-## 🖥️ Dashboard Preview  
-- <a href="(https://github.com/Shashank2650/PowerBi-Dashboard/blob/main/Dashboard.pbix)">View Dashboard</a>
-
 ## ⚙️ Steps to Build the Dashboard  
 1️⃣ **Business Requirement Gathering** – Define key metrics and insights needed.  
 2️⃣ **Understanding the Data** – Analyze and clean raw sales data.  
