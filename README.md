@@ -14,14 +14,11 @@ The **Mobile Sales Dashboard** provides an interactive and visual representation
 - **Sales by Day of the Week** – Identifies peak sales periods for better marketing strategies.  
 
 ## 🛠 Tools & Technologies Used  
-- **Power BI** – Data visualization and dashboard creation.  
-- **SQL** – Data extraction, transformation, and loading (ETL).  
-- **Excel** – Data preprocessing and cleaning.  
+- **Power BI** – Data visualization and dashboard creation.      
 
 ## 📂 Project Files  
 - `Dashboard.pbix` – Power BI dashboard file.  
-- `Mobile Sales Dataset.xlsx` – Raw dataset used for analysis.  
-- `SQL Queries.sql` – Queries for data extraction and transformation.  
+- `Mobile Sales Dataset.xlsx` – Raw dataset used for analysis.    
 
 ## 🚀 How to Use the Dashboard  
 1. Open the `Dashboard.pbix` file in **Power BI**.  
@@ -29,9 +26,6 @@ The **Mobile Sales Dashboard** provides an interactive and visual representation
 3. Use filters (Mobile Model, Payment Method, Brand) to customize insights.  
 4. Identify key trends to optimize sales and marketing strategies.  
 
-## 📌 Future Enhancements  
-✅ Incorporate **AI-powered sales predictions**.  
-✅ Add **real-time data updates** using API integrations.  
-✅ Expand the dataset for **better market insights**.  
+ 
 
 ---
